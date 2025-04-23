@@ -2,7 +2,7 @@
 title: Welcome to Ethical Hacker's Haven
 ---
 
-# 👋 Welcome to Hackers Heaven
+# 👋 Welcome to Ethical Hackers Heaven
 
 **Hackers Heaven** is your ultimate destination for **ethical hacking**, **penetration testing**, and **cybersecurity exploration**.
 
