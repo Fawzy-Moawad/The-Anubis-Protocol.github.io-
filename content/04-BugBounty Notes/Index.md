@@ -1,11 +1,10 @@
 ---
 longform:
   format: scenes
-  title: Ethical Hacker's Haven
+  title: 04-BugBounty Notes
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - readme
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
