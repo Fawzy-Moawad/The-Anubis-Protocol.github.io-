@@ -10,7 +10,7 @@ longform:
 ---
 # ⚠️ Disclaimers & Policies
 
-Welcome to **Hackers Heaven**. This blog is built with the sole intention of supporting **learning**, **ethical hacking education**, and **cybersecurity skill development**. Before engaging with any content here, please read the following disclaimer carefully:
+Welcome to **Ethical Hackers Heaven**. This blog is built with the sole intention of supporting **learning**, **ethical hacking education**, and **cybersecurity skill development**. Before engaging with any content here, please read the following disclaimer carefully:
 
 ---
 

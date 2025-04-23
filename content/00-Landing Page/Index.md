@@ -8,7 +8,7 @@ longform:
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
-# 🌐 Hackers Heaven - Landing Page
+# 🌐 Ethical Hackers Heaven - Landing Page
 
 Welcome to **Hackers Heaven** — your ultimate blog for learning ethical hacking, building penetration testing tools, crafting custom devices, and exploring the world of cybersecurity.
 
