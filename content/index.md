@@ -1,10 +1,10 @@
 ---
-title: Welcome to Ethical Hacker's Haven
+title: Welcome to The Anubis Protocol
 ---
 
-# 👋 Welcome to Ethical Hackers Heaven
+# 👋 Welcome to The Anubis Protocol
 
-**Hackers Heaven** is your ultimate destination for **ethical hacking**, **penetration testing**, and **cybersecurity exploration**.
+**The Anubis Protocol** is your ultimate destination for **ethical hacking**, **penetration testing**, and **cybersecurity exploration**.
 
 This blog combines:
 - 🛠️ Hands-on tools
