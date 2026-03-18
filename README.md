@@ -63,7 +63,7 @@ We review all contributions for relevance and ethical compliance.
 ## 📫 Contact
 
 Feel free to reach out with questions, feedback, or collaboration ideas:
-- Email: hackersheaven@fawzymoawad.com
+- Email: jackalnull3738@gmail.com
 
 ---
 
