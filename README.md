@@ -31,7 +31,7 @@ https://fawzy-moawad.github.io/The-Anubis-Protocol/
 
 1. Clone the tools repository:
    ```bash
-   git clone https://github.com/Fawzy-Moawad/Ethical-Hacker-s-Haven.git
+   git clone https://github.com/Fawzy-Moawad/The-Anubis-Protocol/.git
    ```
 2. Follow the instructions provided in each tool's directory for setup and usage.
 3. For device projects, check the blog for:
