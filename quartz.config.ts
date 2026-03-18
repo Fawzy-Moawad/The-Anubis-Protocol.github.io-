@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ethical Hackers Heaven",
+    pageTitle: "The Anubis Protocol",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
