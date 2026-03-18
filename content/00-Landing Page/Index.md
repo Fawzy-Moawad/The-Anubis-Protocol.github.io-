@@ -8,9 +8,9 @@ longform:
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
-# 🌐 Ethical Hackers Heaven - Landing Page
+# 🌐 The Anubis Protocol - Landing Page
 
-Welcome to **Hackers Heaven** — your ultimate blog for learning ethical hacking, building penetration testing tools, crafting custom devices, and exploring the world of cybersecurity.
+Welcome to **The Anubis Protocol** — your ultimate blog for learning ethical hacking, building penetration testing tools, crafting custom devices, and exploring the world of cybersecurity.
 
 ## 🔎 Explore This Vault
 
