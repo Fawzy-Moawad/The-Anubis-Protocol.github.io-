@@ -1,6 +1,6 @@
 # The Anubis Protocol
 
-https://fawzy-moawad.github.io/The-Anubis-Protocol/
+https://fawzy-moawad.github.io/The-Anubis-Protocol.github.io-/
 
 **The Anubis Protocol** is your all-in-one hub for learning, building, and advancing your ethical hacking and cybersecurity skills. Whether you're just starting out or already on your way to becoming a cybersecurity expert, this blog offers hands-on tools, tutorials, and device builds to enhance your penetration testing and bug bounty journey.
 
@@ -31,7 +31,7 @@ https://fawzy-moawad.github.io/The-Anubis-Protocol/
 
 1. Clone the tools repository:
    ```bash
-   git clone https://github.com/Fawzy-Moawad/The-Anubis-Protocol.git
+   git clone https://github.com/Fawzy-Moawad/The-Anubis-Protocol.github.io-.git
    ```
 2. Follow the instructions provided in each tool's directory for setup and usage.
 3. For device projects, check the blog for:
@@ -42,7 +42,7 @@ https://fawzy-moawad.github.io/The-Anubis-Protocol/
 
 ## 🚀 How to Use This Blog
 
-Explore the blog https://fawzy-moawad.github.io/Ethical-Hacker-s-Haven/ to discover:
+Explore the blog https://fawzy-moawad.github.io/The-Anubis-Protocol.github.io-/ to discover:
 - Latest articles on security techniques and theory
 - Downloadable and modifiable tools for hands-on practice
 - DIY hardware projects complete with visuals and walkthroughs
